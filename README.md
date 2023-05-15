@@ -21,3 +21,6 @@ Change the "FlxColor.WHITE" to whatever color you want (read https://api.haxefli
 <br/> ![HEX](https://github.com/Core5570RYT/HXVis/assets/73734126/7db7a466-7551-4d98-9119-96292c026802)
 
 To change the amount of the bars on the visualizer, go to sources/State.hx, and go to line 41
+
+## Links
+> https://core5570ryt.github.io/HXVis/ 
