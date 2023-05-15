@@ -1,5 +1,5 @@
 ## HXVis
-Audio Visualization made using HaxeFlixel.
+Audio Visualizer made using HaxeFlixel.
 
 ## Getting started
 1. You'll need to install Haxe first fromhttps://haxe.org/download/ .
